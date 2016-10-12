@@ -5,6 +5,8 @@ RUN apt-get update && apt-get install -y \
         supervisor \
         cmake \
         libboost-all-dev \
+        tk \
+        tk-dev \
         python-tk \
         libsdl2-dev \
         xvfb
